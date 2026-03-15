@@ -72,19 +72,6 @@ A fully responsive, single-file personal portfolio website built with pure HTML,
 
 ---
 
-## 🚀 Projects Showcase
-
-This portfolio showcases multiple projects across AI, Web Development, and Android Development:
-
-- **Safe Zone** - Android Parental Control Application
-- **Blog Factory** - AI-Powered Blog Generator
-- **CV Parser** - NLP Resume Analyzer
-- **Personal Portfolio** - This website
-
-Visit the live portfolio to explore each project in detail with screenshots, tech stacks, and GitHub links.
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
