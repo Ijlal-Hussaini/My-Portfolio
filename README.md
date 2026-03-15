@@ -305,49 +305,6 @@ SOFTWARE.
 
 ---
 
-## 🙏 Acknowledgments
-
-- **Google Fonts** - Beautiful typography
-- **Font Awesome** - Icon library
-- **Inspiration** - Modern portfolio designs
-- **Community** - Open source contributors
-
----
-
-## 📧 Contact
-
-**Ijlal Hussain**  
-Software Engineer | AI Developer | MERN Stack Developer | Android Developer
-
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/ijlal-hussain](https://linkedin.com/in/ijlal-hussain)
-- 🐱 GitHub: [github.com/Ijlal-Hussaini](https://github.com/Ijlal-Hussaini)
-- 📱 WhatsApp: [+92-XXX-XXXXXXX](https://wa.me/92XXXXXXXXXX)
-
----
-
-## 🗺️ Roadmap
-
-- [ ] Add blog section
-- [ ] Implement contact form with EmailJS
-- [ ] Add project filtering by technology
-- [ ] Create admin panel for content management
-- [ ] Add analytics integration
-- [ ] Implement PWA features
-- [ ] Add multi-language support
-- [ ] Create downloadable resume generator
-
----
-
-## 📊 Stats
-
-![GitHub repo size](https://img.shields.io/github/repo-size/Ijlal-Hussaini/My-Portfolio)
-![GitHub stars](https://img.shields.io/github/stars/Ijlal-Hussaini/My-Portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Ijlal-Hussaini/My-Portfolio?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/Ijlal-Hussaini/My-Portfolio?style=social)
-
----
-
 <div align="center">
 
 **Made with ❤️ using HTML, CSS & JavaScript**
