@@ -62,25 +62,25 @@ A fully responsive, single-file personal portfolio website built with pure HTML,
 ## 🎬 Demo
 
 ### Home Section
-![Home Section](images/portfolio/1.%20Home.png)
+<img src="images/portfolio/1. Home.png" alt="Home Section" width="100%">
 
 ### About Section
-![About Section](images/portfolio/2.%20About.png)
+<img src="images/portfolio/2. About.png" alt="About Section" width="100%">
 
 ### Certifications
-![Certifications](images/portfolio/3.%20Certification.png)
+<img src="images/portfolio/3. Certification.png" alt="Certifications" width="100%">
 
 ### Project Details
-![Project Details](images/portfolio/6.%20Project%20Details.png)
+<img src="images/portfolio/6. Project Details.png" alt="Project Details" width="100%">
 
 ### Certificate Viewer
-![Certificate Details](images/portfolio/5.%20Certificate%20Details.png)
+<img src="images/portfolio/5. Certificate Details.png" alt="Certificate Details" width="100%">
 
 ### Contact Form
-![Contact Form](images/portfolio/4.%20Contact%20Form.png)
+<img src="images/portfolio/4. Contact Form.png" alt="Contact Form" width="100%">
 
 ### Footer
-![Footer](images/portfolio/7.%20Footer.png)
+<img src="images/portfolio/7. Footer.png" alt="Footer" width="100%">
 
 ---
 
