@@ -1,10 +1,20 @@
+<div align="center">
+
 # 🌐 Personal Portfolio
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Responsive](https://img.shields.io/badge/Responsive-Design-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 **Modern, Responsive Portfolio Website Showcasing AI, Web & Android Development Projects**
 
-[Live Demo](#) • [Features](#-features) • [Projects](#-projects) • [Tech Stack](#-tech-stack) • [Setup](#-setup)
+[Features](#-features) • [Demo](#-demo) • [Projects](#-projects) • [Tech Stack](#-tech-stack) • [Setup](#-setup) • [Contributing](#-contributing)
 
 ---
+
+</div>
 
 ## 🌟 Overview
 
