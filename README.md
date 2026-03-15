@@ -74,50 +74,14 @@ A fully responsive, single-file personal portfolio website built with pure HTML,
 
 ## 🚀 Projects Showcase
 
-### 🛡️ Safe Zone - Parental Control App
-**Android | Java | Firebase | Figma**
+This portfolio showcases multiple projects across AI, Web Development, and Android Development:
 
-Comprehensive parental control system with real-time monitoring, content filtering, geolocation tracking, and screen time management. Led as FYP team lead at NUML Islamabad.
+- **Safe Zone** - Android Parental Control Application
+- **Blog Factory** - AI-Powered Blog Generator
+- **CV Parser** - NLP Resume Analyzer
+- **Personal Portfolio** - This website
 
-**Features:**
-- Real-time device monitoring
-- Content & website filtering
-- Screen time management
-- Geolocation tracking with live map
-- Automated alerts & push notifications
-- Activity reports & usage analytics
-
-[View Project Details](#) | [GitHub](https://github.com/Ijlal-Hussaini/Safe-Zone-Kid-Friendly-Internet-and-App-Monitoring)
-
----
-
-### ✍️ Blog Factory - AI Blog Generator
-**Python | LangChain | LangGraph | LLMs**
-
-Autonomous blog generation pipeline using multi-agent collaboration. Generates fact-verified, structured blog posts with automatic code snippet injection.
-
-**Features:**
-- Fully autonomous end-to-end pipeline
-- Real-time content verification via Tavily
-- Smart conditional code snippet injection
-- LangGraph multi-agent orchestration
-
-[View Project Details](#) | [GitHub](https://github.com/Ijlal-Hussaini/technical-blog-factory)
-
----
-
-### 📄 CV Parser - Resume Analyzer
-**Python | NLP | spaCy**
-
-NLP-powered tool that automatically extracts and categorizes structured information from resumes using Named Entity Recognition and pattern matching.
-
-**Features:**
-- NER-based entity extraction
-- Structured JSON output
-- Pattern matching for contacts
-- Skill taxonomy classification
-
-[View Project Details](#) | [GitHub](https://github.com/Ijlal-Hussaini)
+Visit the live portfolio to explore each project in detail with screenshots, tech stacks, and GitHub links.
 
 ---
 
@@ -385,14 +349,6 @@ Software Engineer | AI Developer | MERN Stack Developer | Android Developer
 - [ ] Implement PWA features
 - [ ] Add multi-language support
 - [ ] Create downloadable resume generator
-
----
-
-## ⭐ Star History
-
-If you find this portfolio useful, please consider giving it a star! ⭐
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Ijlal-Hussaini/My-Portfolio&type=Date)](https://star-history.com/#Ijlal-Hussaini/My-Portfolio&Date)
 
 ---
 
