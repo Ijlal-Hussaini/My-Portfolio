@@ -10,6 +10,14 @@
 
 **Modern, Responsive Portfolio Website Showcasing AI, Web & Android Development Projects**
 
+## 🔗 Live Demo
+
+**[🌐 View Live Portfolio](https://ijlal-hussaini.github.io)**
+
+---
+
+[Features](#-features) • [Demo](#-demo) • [Projects](#-projects) • [Tech Stack](#-tech-stack) • [Setup](#-setup) • [Contributing](#-contributing)
+
 [Features](#-features) • [Demo](#-demo) • [Projects](#-projects) • [Tech Stack](#-tech-stack) • [Setup](#-setup) • [Contributing](#-contributing)
 
 ---
